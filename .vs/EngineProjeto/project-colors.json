@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3391b48e-c8a7-462f-80a0-d70f0d9d941f": {
+      "ProjectGuid": "3391b48e-c8a7-462f-80a0-d70f0d9d941f",
+      "DisplayName": "EngineProjeto",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
